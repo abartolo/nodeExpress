@@ -1,0 +1,23 @@
+{
+  "name": "nodeExpress",
+  "version": "0.0.1",
+  "description": "Express App with ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies":{
+     "express": "*",
+       "ejs": "*"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abartolo/nodeExpress.git"
+  },
+  "author": "Alexander Bartolo",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/abartolo/nodeExpress/issues"
+  },
+  "homepage": "https://github.com/abartolo/nodeExpress"
+}
